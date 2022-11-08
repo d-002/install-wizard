@@ -5,4 +5,5 @@ https://stackoverflow.com/questions/74359083#74366953
 
 The files in the `.zip` are all the files needed in order to run `application.exe` (tkinter application that displays a *Hello World*).
 
-The installer will download, extract and remove `application.zip` into a local directory the user set.
+The installer will download, extract and remove `application.zip` into a local directory that the user set.  
+... i know it's ugly but as I said it's just a proof of concept.
